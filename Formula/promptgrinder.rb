@@ -1,9 +1,9 @@
 class Promptgrinder < Formula
   desc "Run AI prompts as deterministic, reviewable engineering workflows"
   homepage "https://github.com/PromptGrinder/promptgrinder"
-  url "https://github.com/PromptGrinder/promptgrinder/archive/refs/tags/v1.0.0-rc.5.2.tar.gz"
-  version "1.0.0-rc.5.2"
-  sha256 "299e7b0672b876295210f47b357569ca3df9370f215d5cbaadfe7bfc42d874fd"
+  url "https://github.com/PromptGrinder/promptgrinder/archive/refs/tags/v1.0.0-rc.6.0.tar.gz"
+  version "1.0.0-rc.6.0"
+  sha256 "d9241344e6a2b19557aa768d5c6c6e70aa77bab71180f33a57d494fd26bce307"
   license "MIT"
 
   depends_on "go" => :build
